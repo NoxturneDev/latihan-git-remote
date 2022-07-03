@@ -2,10 +2,9 @@ ini dibuat di branch feature 2
 ini diubah di branch development
 FITUR C
 
-<<<<<<< HEAD
+
 FITUR ANJAY SLEBEW
-=======
+
 FITUR C
 
-INI BARU YA SLEBEW
->>>>>>> development
+
